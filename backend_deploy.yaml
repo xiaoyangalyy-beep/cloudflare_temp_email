@@ -1,0 +1,6 @@
+# backend_deploy.yaml
+
+... (content of the workflow file up to line 70) ...
+
+if pnpm run deploy; then
+    ... (rest of the workflow file) ...
